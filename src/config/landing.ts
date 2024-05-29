@@ -92,18 +92,18 @@ export const features = [
 
 export const testimonials = [
   {
-    name: "John Doe",
-    job: "Full Stack Developer",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
+    name: "#EVENTS",
+    job: "🆓",
+    image: "https://em-content.zobj.net/source/apple/391/bottle-with-popping-cork_1f37e.png",
     review:
-      "The next-saas-stripe-starter repo has truly revolutionized my development workflow. With its comprehensive features and seamless integration with Stripe, I've been able to build and deploy projects faster than ever before. The documentation is clear and concise, making it easy to navigate through the setup process. I highly recommend next-saas-stripe-starter to any developer.",
+      "All ATL5D live episodes are scheduled as events that viewers can register for and receive $ATL money for attending.",
   },
   {
-    name: "Alice Smith",
-    job: "UI/UX Designer",
-    image: "https://randomuser.me/api/portraits/women/2.jpg",
+    name: "#GENERAL-CHAT",
+    job: "🆓",
+    image: "https://em-content.zobj.net/source/apple/391/thought-balloon_1f4ad.png",
     review:
-      "Thanks to next-saas-stripe-starter, I've been able to create modern and attractive user interfaces in record time. The starter kit provides a solid foundation for building sleek and intuitive designs, allowing me to focus more on the creative aspects of my work.",
+      "The free ATL5D channel for general Atlanta talk.",
   },
   {
     name: "David Johnson",
