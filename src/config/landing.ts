@@ -4,23 +4,23 @@ export const infos: InfoLdg[] = [
   {
     title: "STANDING ON BIDNESS",
     description:
-      "Unlock the full potential of your projects with our open-source SaaS platform. Collaborate seamlessly, innovate effortlessly, and scale limitlessly.",
+      "We partnered with What3Words to create a new three word Atlanta address system residents and business own and sell as D-commerce. ",
     image: "/images/blog/placeholder-about.jpg",
     list: [
       {
-        title: "Collaborative",
-        description: "Work together with your team members in real-time.",
+        title: "Own ATL5D",
+        description: "Buy and sell ATL5D blocks mapped to ATL in a PPV Discord.",
         icon: "lucide:laptop",
       },
       {
-        title: "Innovative",
-        description: "Stay ahead of the curve with access constant updates.",
+        title: "Marketing",
+        description: "Market your business in three words your customers can remember.",
         icon: "lucide:settings",
       },
       {
-        title: "Scalable",
+        title: "Quests",
         description:
-          "Our platform offers the scalability needed to adapt to your needs.",
+          "Quests are jobs in the form of a task that pays in $ATL money to residents.",
         icon: "lucide:search",
       },
     ],
