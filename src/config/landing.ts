@@ -2,9 +2,9 @@ import type { InfoLdg } from "@/types";
 
 export const infos: InfoLdg[] = [
   {
-    title: "///Standing.On.Business LNE",
+    title: "///Standing.On.Business",
     description:
-      "We partnered with What3Words.com to create a new three word Atlanta address system residents and business own and sell as D-commerce. ",
+      "We partnered with What3Words.com to create a new three word Atlanta address system residents and business own and sell as D-commerce real estate with royalties. ",
     image: "/images/blog/placeholder-about.jpg",
     list: [
       {
@@ -57,7 +57,7 @@ export const features = [
     title: "Feature 1",
     description:
       "Midtown tier subscribers create a branded PPV Discord and ATLverse channel to sell D-commerce.",
-    link: "/",
+    link: "https://atl5d.arvrtise.com/blog/welcome-to-atl5d/",
   },
   {
     title: "Feature 2",
