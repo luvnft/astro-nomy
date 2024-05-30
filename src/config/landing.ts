@@ -2,25 +2,25 @@ import type { InfoLdg } from "@/types";
 
 export const infos: InfoLdg[] = [
   {
-    title: "STANDING ON BIDNESS",
+    title: "///Standing.On.Business LNE",
     description:
-      "We partnered with What3Words to create a new three word Atlanta address system residents and business own and sell as D-commerce. ",
+      "We partnered with What3Words.com to create a new three word Atlanta address system residents and business own and sell as D-commerce. ",
     image: "/images/blog/placeholder-about.jpg",
     list: [
       {
-        title: "Own ATL5D",
-        description: "Buy and sell ATL5D blocks mapped to ATL in a PPV Discord.",
+        title: "Buy Back The Block",
+        description: "Buy and sell Atlanta 3M x 3M blocks mapped to physical locations as side hustle.",
         icon: "lucide:laptop",
       },
       {
-        title: "Marketing",
+        title: "These Three Words",
         description: "Market your business in three words your customers can remember.",
         icon: "lucide:settings",
       },
       {
-        title: "Quests",
+        title: "Tribe Called Quests",
         description:
-          "Quests are jobs in the form of a task that pays in $ATL money to residents.",
+          "We drop the /// block LNE addy and the first person to pull up and create social media proof of completing the quest wins $ATL money.",
         icon: "lucide:search",
       },
     ],
