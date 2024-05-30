@@ -56,36 +56,36 @@ export const features = [
   {
     title: "Feature 1",
     description:
-      "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "Midtown tier subscribers create a branded PPV Discord and ATLverse channel to sell D-commerce.",
     link: "/",
   },
   {
     title: "Feature 2",
     description:
-      "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "We airdrop subscribers up to 100K a month $ATL money as a UAI (Universal Atlanta Income)",
     link: "/",
   },
   {
     title: "Feature 3",
     description:
-      "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "Unlock your favorite Atlanta influencers PPV channel by purchasing their D-commerce merch.",
     link: "/",
   },
   {
     title: "Feature 4",
     description:
-      "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "Watch or listen to local live D-commerce shows that allow the viewers to own/sell the highlights.",
     link: "/",
   },
   {
     title: "Feature 5",
     description:
-      "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "Local creators make short ads for local businesses that can be purchased to unlock products.",
   },
   {
     title: "Feature 6",
     description:
-      "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "ATL5D subscribers vote on the PPV channel content they want to see and own as D-commerce.",
     link: "/",
   },
 ];
