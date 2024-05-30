@@ -14,12 +14,12 @@ export const siteConfig: SiteConfig = {
 
 export const footerLinks: SidebarNavItem[] = [
   {
-    title: "Company",
+    title: "Socials",
     items: [
-      { title: "About", href: "#" },
-      { title: "Enterprise", href: "#" },
-      { title: "Partners", href: "#" },
-      { title: "Jobs", href: "#" },
+      { title: "Free Discord", href: "https://discord.gg/QQeFcekQyx" },
+      { title: "X", href: "https://x.com/atl5d" },
+      { title: "TikTok", href: "https://tiktok.com/@atl5d" },
+      { title: "Instagram", href: "https://youtube.com/atl5d" },
     ],
   },
   {
