@@ -1,14 +1,14 @@
 import type { SidebarNavItem, SiteConfig } from "@/types";
 
 export const siteConfig: SiteConfig = {
-  name: "Astronomy",
+  name: "ATL5D",
   description:
-    "An modern example app built using Astro v4 & shadcn/ui. Inspired by shadcn/taxonomy.",
+    "The Atlanta united economy powered by blockchain tech that works for everyone. Subscribers learn, earn $ATL B🍑🍑ty memecoins and network in the ATLverse with a leaderboard. ",
   url: "https://atl5d.arvrtise.com",
   ogImage: "https://atl5d.arvrtise.com/og.jpg",
   links: {
-    twitter: "https://twitter.com/miickasmt",
-    github: "https://github.com/mickasmt/astro-nomy",
+    twitter: "https://twitter.com/atl5d",
+    github: "https://github.com/luvnft/astro-nomy",
   },
 };
 
