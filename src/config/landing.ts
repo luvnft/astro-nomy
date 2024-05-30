@@ -212,9 +212,9 @@ export const testimonials = [
   {
     name: "#CAREER",
     job: "▶️",
-    image: "https://em-content.zobj.net/source/apple/391/movie-camera_1f3a5.png",
+    image: "https://em-content.zobj.net/source/apple/391/briefcase_1f4bc.png",
     review:
-      "ATL5D is the new Hollywood. Buy and sell movies, short films, or commercial ads that we promote on our socials. The new stars are being born in our PPV channels. Throw a ticket-gated live streamed movie event to a crowd of 500 attendees in the ATLverse.",
+      "Network with ATL5Diens in the came career as you, talk about the job economy. Post jobs that pay in $ATL money.",
   },
   {
     name: "#MOVIE-INDUSTRY",
