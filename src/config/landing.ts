@@ -54,39 +54,40 @@ export const infos: InfoLdg[] = [
 
 export const features = [
   {
-    title: "Feature 1",
+    title: "The Atlanta Housing Crisis Solution",
     description:
-      "Midtown tier subscribers create a branded PPV Discord and ATLverse channel to sell D-commerce.",
+      "Welcome to ATL5D: Learn how the blockchain economy works for everyone in Atlanta",
     link: "https://atl5d.arvrtise.com/blog/welcome-to-atl5d/",
   },
   {
     title: "Feature 2",
     description:
-      "We airdrop subscribers up to 100K a month $ATL money as a UAI (Universal Atlanta Income)",
-    link: "/",
+      "Learn how Bitcoin $RNT creates affordable Atlanta housing and solves rental scams",
+    link: "https://atl5d.arvrtise.com/blog/how-bitcoin-rnt-solves-atlanta-housing-crisis/",
   },
   {
-    title: "Feature 3",
+    title: "Tokenizing Atlanta food",
     description:
-      "Unlock your favorite Atlanta influencers PPV channel by purchasing their D-commerce merch.",
-    link: "/",
+      "Learn how to tokenize Food to create affordable Atlanta food options",
+    link: "https://atl5d.arvrtise.com/images/blog/placeholder-3.jpg",
   },
   {
-    title: "Feature 4",
+    title: "Tokenizing Atlanta",
     description:
-      "Watch or listen to local live D-commerce shows that allow the viewers to own/sell the highlights.",
-    link: "/",
+      "Tokenizing Atlanta Real-World Assets: Building a Local Blockchain Economy through D-commerce ",
+    link: "https://atl5d.arvrtise.com/blog/tokenizing-atlanta-rwa/",
   },
   {
     title: "Feature 5",
     description:
-      "Local creators make short ads for local businesses that can be purchased to unlock products.",
+      "Subscribe to ATL5D Discord to claim your FREE $ATL B🍑🍑ty memecoin money ",
+      link: "https://discord.com/servers/atl5d-1244450286337003520",
   },
   {
     title: "Feature 6",
     description:
-      "ATL5D subscribers vote on the PPV channel content they want to see and own as D-commerce.",
-    link: "/",
+      "Join our FREE ATL5D Discord until you subscribe to unlock local PPV channels",
+    link: "https://discord.gg/QQeFcekQyx",
   },
 ];
 
@@ -161,21 +162,21 @@ export const testimonials = [
       "Post a reel of your rental on social media then embed the video in the #rntals channel with the command /convert. Communicate in one channel and accept Bitcoin $RNT with no middleman fees to create affordable Atlanta housing.",
   },
   {
-    name: "#HAIR-INDUSTRY",
+    name: "#HAIR",
     job: "▶️",
     image: "https://em-content.zobj.net/source/apple/391/large-red-circle_1f534.png",
     review:
       "Atlanta is the hair capital, so it was only right that stylists have their own channel for promoting d-commerce to unlock their services, bookings, and to accept Bitcoin HAI$ money.",
   },
   {
-    name: "#FOODIES",
+    name: "#FOODIE",
     job: "▶️",
     image: "https://em-content.zobj.net/source/apple/391/hamburger_1f354.png",
     review:
       "Promote the local Atlanta food industry to earn $ATL money or D-commerce merch to unlock food IRL.",
   },
   {
-    name: "#MUSIC-INDUSTRY",
+    name: "#MUSIC",
     job: "▶️",
     image: "https://em-content.zobj.net/source/apple/391/musical-note_1f3b5.png",
     review:
@@ -217,7 +218,14 @@ export const testimonials = [
       "Network with ATL5Diens in the came career as you, talk about the job economy. Post jobs that pay in $ATL money.",
   },
   {
-    name: "#MOVIE-INDUSTRY",
+    name: "#MOVIE",
+    job: "▶️",
+    image: "https://em-content.zobj.net/source/apple/391/movie-camera_1f3a5.png",
+    review:
+      "ATL5D is the new Hollywood. Buy and sell movies, short films, or commercial ads that we promote on our socials. The new stars are being born in our PPV channels. Throw a ticket-gated live streamed movie event to a crowd of 500 attendees in the ATLverse.",
+  },
+  {
+    name: "#PICS",
     job: "▶️",
     image: "https://em-content.zobj.net/source/apple/391/movie-camera_1f3a5.png",
     review:
