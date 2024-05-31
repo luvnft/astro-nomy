@@ -12,10 +12,10 @@ export const navMenuConfig: NavMenuConfig = {
           image: "/images/examples/landing.jpg",
         },
         {
-          title: "Changelog",
+          title: "Challenge",
           href: "/releases",
           description: "A reproduction of Starlog template with Tailwind CSS.",
-          image: "/images/examples/changelog.jpg",
+          image: "/images/examples/challenge.jpg",
         },
         {
           title: "Waitlist",
@@ -49,48 +49,48 @@ export const navMenuConfig: NavMenuConfig = {
   ],
   examplesNav: [
     {
-      title: "Examples",
+      title: "ATLverse",
       items: [
         {
-          title: "Static Blog",
+          title: "Blog",
           href: "/blog",
-          description: "A Markdown/MDX blog built using Content Collections.",
+          description: "Learn how ATL5D D-commerce works for you.",
           image: "/images/examples/static-blog.jpg",
         },
         {
-          title: "Docs",
-          href: "/docs/getting-started",
+          title: "Tik Tok",
+          href: "https://tiktok.com/@atl5d",
           description:
-            "A Markdown/MDX docs site built using Content Collections.",
+            "Use our Atlanta-themed CapCut videos and TikTok effects, both of which can be customized with your branding.",
           image: "/images/examples/documentation.jpg",
         },
         {
-          title: "Anime List",
+          title: "FREE ATL5D Discord",
           href: "/animes",
           description:
-            "Fetch anime content from an graphql endpoint. Tabs component.",
+            "The free tier is the parking lot of ATL5D Discord.",
           image: "/images/examples/animes.jpg",
           launched: true,
         },
         {
-          title: "Blog DB",
+          title: "PPV ATL5D Discord",
           href: "/blog-db",
           description:
-            "Blog built using Astro DB. With categories, views & likes.",
+            "Subscribe to a tier of Club 112 to tap in to PPV channels, Midtown tier to set up shops and Gold Room to access the VIP.",
           // image: "/images/examples/blog-db.jpg",
           disabled: true,
         },
         {
-          title: "Ecommerce",
+          title: "Arvrtise Hair",
           href: "/products",
           disabled: true,
-          description: "Ecommerce pages fetching data from an API.",
+          description: "Arvrtise Hair in the Hairverse that stylist own as D-commerce.",
           // image: "/images/examples/ecommerce.jpg",
         },
         {
-          title: "Authentification",
+          title: "Arvrtise TV",
           href: "/auth",
-          description: "Implement an authentification using Astro DB & Lucia",
+          description: "Arvrtise TV is YouTube with no ads.",
           // image: "/images/examples/auth.jpg",
           disabled: true,
         },

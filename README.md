@@ -66,7 +66,7 @@ _Not implemented yet :_
 - [x] ~Dark mode~
 - [x] ~Add Markdown & MDX support~
 - [x] ~Sheet mobile nav~
-- [x] ~Build **changelog pages**~
+- [x] ~Build **challenge pages**~
 - [x] ~Build **waitlist with React Hook Form**~
 - [x] ~Build **newsletter with Simple Form**~
 - [x] ~Build **animes pages** (graphql)~

@@ -53,7 +53,7 @@ export const docsConfig: DocsConfig = {
           disabled: true,
         },
         {
-          title: "Changelog",
+          title: "Challenge",
           href: "/docs/in-progress",
           disabled: true,
         },
