@@ -227,8 +227,15 @@ export const testimonials = [
   {
     name: "#PICS",
     job: "▶️",
-    image: "https://em-content.zobj.net/source/apple/391/movie-camera_1f3a5.png",
+    image: "https://em-content.zobj.net/source/apple/391/camera-with-flash_1f4f8.png",
     review:
-      "ATL5D is the new Hollywood. Buy and sell movies, short films, or commercial ads that we promote on our socials. The new stars are being born in our PPV channels. Throw a ticket-gated live streamed movie event to a crowd of 500 attendees in the ATLverse.",
+      "Claim your FREE ATLnight🔴 pic as D-commerce or buy and sell pics as D-commerce.",
+  },
+  {
+    name: "#BEAUTY",
+    job: "▶️",
+    image: "https://em-content.zobj.net/source/apple/391/nail-polish_1f485.png",
+    review:
+      "Join the Beauty channel to find local beauticians selling local D-commerce services or products.",
   },
 ];
