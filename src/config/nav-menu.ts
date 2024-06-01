@@ -6,22 +6,22 @@ export const navMenuConfig: NavMenuConfig = {
       title: "Pages",
       items: [
         {
-          title: "Landing",
+          title: "Home",
           href: "/landing",
-          description: "A landing page template with differents sections.",
+          description: "The Arvrtise ATL5D home page.",
           image: "/images/examples/landing.jpg",
         },
         {
           title: "Challenge",
           href: "/releases",
-          description: "A reproduction of Starlog template with Tailwind CSS.",
+          description: "Check what daily challenges and quests.",
           image: "/images/examples/challenge.jpg",
         },
         {
           title: "Waitlist",
           href: "/waitlist",
           description:
-            "A waitlist form using Astro DB, React Hook Form & Sonner. Static page.",
+            "The officIal ATL5D wait list form coming soon.",
           image: "/images/examples/waitlist.jpg",
           forceReload: true,
         },
@@ -34,14 +34,14 @@ export const navMenuConfig: NavMenuConfig = {
         {
           title: "About",
           href: "/about",
-          description: "A simple page with a masonry gallery and little text.",
+          description: "Learn about Arvrtise ATL5D.",
           image: "/images/examples/about.jpg",
         },
         {
-          title: "Newsletter",
-          href: "/newsletter",
+          title: "Blog",
+          href: "/blog",
           description:
-            "A newsletter form using Astro DB & Simple Stack Form. Counter display!",
+            "Read the Arvrtise ATL5D blog to stay tapped into the market owned by creators.",
           image: "/images/examples/newsletter.jpg",
         },
       ],
@@ -52,9 +52,9 @@ export const navMenuConfig: NavMenuConfig = {
       title: "ATLverse",
       items: [
         {
-          title: "Blog",
-          href: "/blog",
-          description: "Learn how ATL5D D-commerce works for you.",
+          title: "PPV ATL5D Discord",
+          href: "https://discord.com/servers/atl5d-1244450286337003520",
+          description: "You have to pay to see the Reel ATLanta",
           image: "/images/examples/static-blog.jpg",
         },
         {
@@ -66,7 +66,7 @@ export const navMenuConfig: NavMenuConfig = {
         },
         {
           title: "FREE ATL5D Discord",
-          href: "/animes",
+          href: "https://discord.gg/QQeFcekQyx",
           description:
             "The free tier is the parking lot of ATL5D Discord.",
           image: "/images/examples/animes.jpg",
@@ -78,12 +78,10 @@ export const navMenuConfig: NavMenuConfig = {
           description:
             "Subscribe to a tier of Club 112 to tap in to PPV channels, Midtown tier to set up shops and Gold Room to access the VIP.",
           // image: "/images/examples/blog-db.jpg",
-          disabled: true,
         },
         {
           title: "Arvrtise Hair",
           href: "/products",
-          disabled: true,
           description: "Arvrtise Hair in the Hairverse that stylist own as D-commerce.",
           // image: "/images/examples/ecommerce.jpg",
         },
@@ -92,7 +90,6 @@ export const navMenuConfig: NavMenuConfig = {
           href: "/auth",
           description: "Arvrtise TV is YouTube with no ads.",
           // image: "/images/examples/auth.jpg",
-          disabled: true,
         },
       ],
     },
