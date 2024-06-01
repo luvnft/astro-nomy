@@ -86,9 +86,9 @@ export const navMenuConfig: NavMenuConfig = {
           image: "/images/examples/ecommerce.jpg",
         },
         {
-          title: "Arvrtise TV",
-          href: "https://tv.arvrtise.com",
-          description: "Arvrtise TV is YouTube with no ads.",
+          title: "ATLverse",
+          href: "https://www.spatial.io/s/ATLverse-662eb8858ef79a2eef2b8193?share=9164371680450447654",
+          description: "Join the ATLverse metaverse.",
           image: "/images/examples/auth.jpg",
         },
       ],

@@ -25,10 +25,10 @@ export const footerLinks: SidebarNavItem[] = [
   {
     title: "Company",
     items: [
-      { title: "Services", href: "#" },
-      { title: "Blog", href: "#" },
-      { title: "About", href: "#" },
-      { title: "Challenge", href: "#" },
+      { title: "ATLverse", href: "https://www.spatial.io/s/ATLverse-662eb8858ef79a2eef2b8193?share=9164371680450447654" },
+      { title: "Blog", href: "https://atl5d.arvrtise.com/blog" },
+      { title: "About", href: "https://atl5d.arvrtise.com/about" },
+      { title: "Services", href: "https://atl5d.arvrtise.com/about" },
     ],
   },
   {
