@@ -34,7 +34,7 @@ export const footerLinks: SidebarNavItem[] = [
   {
     title: "Docs",
     items: [
-      { title: "Challenge", href: "https://atl5d.arvrtise.com/challenge" },
+      { title: "Challenge", href: "https://atl5d.arvrtise.com/releases" },
       { title: "Youtube", href: "https://youtube.com/atl5d" },
       { title: "Arvrtise TV", href: "https://tv.arvrtise.com" },
       { title: "Arvrtise Hair", href: "https://hair.arvrtise.com" },

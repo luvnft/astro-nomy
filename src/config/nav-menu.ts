@@ -13,7 +13,7 @@ export const navMenuConfig: NavMenuConfig = {
         },
         {
           title: "Challenge",
-          href: "/challenge",
+          href: "/releases",
           description: "Check what daily challenges and quests.",
           image: "/images/examples/challenge.jpg",
         },
