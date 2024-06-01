@@ -8,7 +8,7 @@ export const siteConfig: SiteConfig = {
   ogImage: "https://atl5d.arvrtise.com/og.jpg",
   links: {
     twitter: "https://twitter.com/atl5d",
-    github: "https://github.com/luvnft/astro-nomy",
+    github: "https://discord.gg/QQeFcekQyx",
   },
 };
 
@@ -19,25 +19,25 @@ export const footerLinks: SidebarNavItem[] = [
       { title: "Free Discord", href: "https://discord.gg/QQeFcekQyx" },
       { title: "X", href: "https://x.com/atl5d" },
       { title: "TikTok", href: "https://tiktok.com/@atl5d" },
-      { title: "Instagram", href: "https://youtube.com/atl5d" },
+      { title: "Instagram", href: "https://instagram.com/atl5d" },
     ],
   },
   {
-    title: "Product",
+    title: "Company",
     items: [
-      { title: "Security", href: "#" },
-      { title: "Customization", href: "#" },
-      { title: "Customers", href: "#" },
+      { title: "Services", href: "#" },
+      { title: "Blog", href: "#" },
+      { title: "About", href: "#" },
       { title: "Challenge", href: "#" },
     ],
   },
   {
     title: "Docs",
     items: [
-      { title: "Introduction", href: "#" },
-      { title: "Installation", href: "#" },
-      { title: "Components", href: "#" },
-      { title: "Code Blocks", href: "#" },
+      { title: "Challenge", href: "https://atl5d.arvrtise.com/challenge" },
+      { title: "Youtube", href: "https://youtube.com/atl5d" },
+      { title: "Arvrtise TV", href: "https://tv.arvrtise.com" },
+      { title: "Arvrtise Hair", href: "https://hair.arvrtise.com" },
     ],
   },
 ];

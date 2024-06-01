@@ -13,7 +13,7 @@ export const navMenuConfig: NavMenuConfig = {
         },
         {
           title: "Challenge",
-          href: "/releases",
+          href: "/challenge",
           description: "Check what daily challenges and quests.",
           image: "/images/examples/challenge.jpg",
         },
@@ -28,7 +28,7 @@ export const navMenuConfig: NavMenuConfig = {
         {
           title: "Pricing",
           href: "/pricing",
-          description: "Pricing cards, FAQs and more content with price.",
+          description: "Learn about how Arvrtise ATL5D pricing works.",
           image: "/images/examples/pricing.jpg",
         },
         {
@@ -54,15 +54,16 @@ export const navMenuConfig: NavMenuConfig = {
         {
           title: "PPV ATL5D Discord",
           href: "https://discord.com/servers/atl5d-1244450286337003520",
-          description: "You have to pay to see the Reel ATLanta",
+          description: "You have to pay to see the Reel ATLanta.",
           image: "/images/examples/static-blog.jpg",
         },
         {
           title: "Tik Tok",
           href: "https://tiktok.com/@atl5d",
           description:
-            "Use our Atlanta-themed CapCut videos and TikTok effects, both of which can be customized with your branding.",
+            "Use our Atlanta-themed CapCut videos and TikTok effects.",
           image: "/images/examples/documentation.jpg",
+          launched: true,
         },
         {
           title: "FREE ATL5D Discord",
@@ -70,26 +71,25 @@ export const navMenuConfig: NavMenuConfig = {
           description:
             "The free tier is the parking lot of ATL5D Discord.",
           image: "/images/examples/animes.jpg",
-          launched: true,
         },
         {
           title: "PPV ATL5D Discord",
-          href: "/blog-db",
+          href: "https://discord.com/servers/atl5d-1244450286337003520",
           description:
             "Subscribe to a tier of Club 112 to tap in to PPV channels, Midtown tier to set up shops and Gold Room to access the VIP.",
-          // image: "/images/examples/blog-db.jpg",
+          image: "/images/examples/blog-db.jpg",
         },
         {
           title: "Arvrtise Hair",
-          href: "/products",
+          href: "https://hair.arvrtise.com",
           description: "Arvrtise Hair in the Hairverse that stylist own as D-commerce.",
-          // image: "/images/examples/ecommerce.jpg",
+          image: "/images/examples/ecommerce.jpg",
         },
         {
           title: "Arvrtise TV",
-          href: "/auth",
+          href: "https://tv.arvrtise.com",
           description: "Arvrtise TV is YouTube with no ads.",
-          // image: "/images/examples/auth.jpg",
+          image: "/images/examples/auth.jpg",
         },
       ],
     },
