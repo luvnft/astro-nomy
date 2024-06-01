@@ -7,50 +7,59 @@ export const hobbies: HobbiesProps[] = [
   // first column
   {
     image:
-      "https://images.pexels.com/photos/15372903/pexels-photo-15372903/free-photo-of-computer-setup-with-big-monitor-screen.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "setup desktop",
+      "https://i.imgur.com/9tsHn09.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "custom tiktok backdrop",
+    link: "https://buy.stripe.com/9AQcO7dOn0fa8lWbJ8",
   },
   {
     image:
-      "https://images.pexels.com/photos/1049317/pexels-photo-1049317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "friends smiles",
+      "https://i.imgur.com/h1ngrSF.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "tokenize audio",
+    link: "https://www.facebook.com",
   },
   // second column
   {
     image:
-      "https://images.pexels.com/photos/3712095/pexels-photo-3712095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "grey cat",
+      "https://i.imgur.com/ZbWcuZS.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "tokenize pics",
+    link: "https://www.instagram.com",
   },
   {
     image:
-      "https://images.pexels.com/photos/9293249/pexels-photo-9293249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "home building",
+      "https://i.imgur.com/gn6OUHN.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "tokenize movie",
+    link: "https://www.pinterest.com",
   },
   {
     image:
-      "https://images.pexels.com/photos/375467/pexels-photo-375467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "pizza laptop",
+      "https://i.imgur.com/tuR0Fmm.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "tokenize a block",
+    link: "https://www.twitter.com",
   },
   // third column
   {
     image:
-      "https://images.pexels.com/photos/1230302/pexels-photo-1230302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "hike and sunset",
+      "https://i.imgur.com/NPl0fsI.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "tokenize a booking",
+    link: "https://www.youtube.com",
   },
   {
     image:
-      "https://images.pexels.com/photos/5500779/pexels-photo-5500779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "chinese lantern",
+      "https://i.imgur.com/49epvbb.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "tokenize bitcoin",
+    link: "https://www.tiktok.com",
   },
   // fourth column
   {
     image:
-      "https://images.pexels.com/photos/2090644/pexels-photo-2090644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "the great wheel",
+      "https://i.imgur.com/P2GcJdU.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "branded food menu",
+    link: "https://www.netflix.com",
   },
   {
     image:
-      "https://images.pexels.com/photos/7418632/pexels-photo-7418632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "dalmatian",
+      "https://i.imgur.com/uu1WbfT.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "book a metaverse event",
+    link: "https://www.disneyplus.com",
   },
 ];
