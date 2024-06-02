@@ -110,7 +110,7 @@ export const testimonials = [
     name: "#INTRODUCE-YA-SELF",
     job: "🆓",
     image: "https://em-content.zobj.net/source/apple/391/microphone_1f3a4.png",
-    review: `Grab the mic and let ATL5D know who you are, what you do, what zone you are from, and your <a href="https://phantom.app" target="_blank" rel="noopener noreferrer">Phantom.app</a> Ethereum address to receive $ATL.`,
+    review: `Grab the mic and let ATL5D know who you are, what you do, what zone you are from, and your ATL5D Coinbase wallet address to receive $ATL tips.`,
   },
   {
     name: "#BARTER-SELL",
@@ -131,7 +131,7 @@ export const testimonials = [
     job: "▶️",
     image: "https://em-content.zobj.net/source/apple/391/heart-exclamation_2763-fe0f.png",
     review:
-      "If you want to know something in Atlanta then tap into the #ask-atl channel and create a poll with the command of /poll.",
+      "Ask Atlanta in the #ask-atl channel.Create a poll with the command of /poll.",
   },
   {
     name: "#ONLY-PETS",
@@ -166,7 +166,7 @@ export const testimonials = [
     job: "▶️",
     image: "https://em-content.zobj.net/source/apple/391/large-red-circle_1f534.png",
     review:
-      "Atlanta is the hair capital, so it was only right that stylists have their own channel for promoting d-commerce to unlock their services, bookings, and to accept Bitcoin HAI$ money.",
+      "Atlanta hair stylist sell D-commerce Hair to unlock their services, bookings, and to accept Bitcoin HAI$ money.",
   },
   {
     name: "#FOODIE",
@@ -180,14 +180,14 @@ export const testimonials = [
     job: "▶️",
     image: "https://em-content.zobj.net/source/apple/391/musical-note_1f3b5.png",
     review:
-      "Subscribe, then tokenize your music to sell it in the music channel to your fans, who can resell it for more than they paid. Earn royalties on all secondary sales, and we'll promote it. Earn $1M $ATL for creating the #1 voted $ATL Booty memecoin song.",
+      "Buy/sell D-commerce audio in the music channel to your fans, who can resell it for more than they paid. Earn royalties on all secondary sales, and we'll promote it. Earn $1M $ATL for creating the #1 voted $ATL Booty memecoin song.",
   },
   {
     name: "#GAMERS",
     job: "▶️",
     image: "https://em-content.zobj.net/source/apple/391/video-game_1f3ae.png",
     review:
-      "ATL5D united Atlanta gamers in one channel, monetize your content with a branded Discord and ATLverse channel. Promote live gaming events in the ATLverse.",
+      "ATL5D gamers united in one #gamers channel, play ATL5D games or ATLverse games. Create live gaming events in the ATLverse.",
   },
   {
     name: "#VOICE-CHAT",
@@ -215,7 +215,7 @@ export const testimonials = [
     job: "▶️",
     image: "https://em-content.zobj.net/source/apple/391/briefcase_1f4bc.png",
     review:
-      "Network with ATL5Diens in the came career as you, talk about the job economy. Post jobs that pay in $ATL money.",
+      "Network with ATLiens in the came career as you, talk about the job economy. Post jobs that pay in $ATL money or Bitcoin L$VE.",
   },
   {
     name: "#MOVIE",
