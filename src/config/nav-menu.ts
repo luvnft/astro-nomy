@@ -73,10 +73,10 @@ export const navMenuConfig: NavMenuConfig = {
           image: "/images/examples/animes.jpg",
         },
         {
-          title: "PPV ATL5D Discord",
-          href: "https://discord.com/servers/atl5d-1244450286337003520",
+          title: "ATLverse Events",
+          href: "https://atl5d.arvrtise.com/blog/atl5d-metaverse-events/",
           description:
-            "Subscribe to a tier of Club 112 to tap in to PPV channels, Midtown tier to set up shops and Gold Room to access the VIP.",
+            "Learn how to create an ATLverse event that benefits everyone in attendance.",
           image: "/images/examples/blog-db.jpg",
         },
         {
