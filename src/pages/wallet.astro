@@ -1,0 +1,54 @@
+---
+import { buttonVariants } from "@/components/ui/button";
+import MainLayout from "@/layouts/main-layout.astro";
+import { cn } from "@/lib/utils";
+import { Icon } from "astro-icon/components";
+
+---
+
+<MainLayout title="Pricing" mainClass="flex-1 bg-background-200">
+  <section
+    class="container flex flex-col gap-6 py-8 md:max-w-[64rem] md:py-12 lg:py-24"
+  >
+    <div class="mx-auto flex w-full flex-col gap-4 md:max-w-[58rem]">
+      <h2 class="font-heading text-3xl leading-[1.1] sm:text-3xl md:text-6xl">
+        Create a FREE ATL5D BANKhead Account
+      </h2>
+      <p
+        class="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7"
+      >
+        ATL5D partnered with <a href="https://coinbase.com"></a><b>Coinbase</b></a>
+        to solve the problem of 60K+ Atlanta's unbanked households having the ability
+        to have a bank account, subscribe to ATL5D to receive $ATL B🍑🍑ty money airdropped
+        to your verified ATL5D account.
+      </p>
+      <p
+        class="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7"
+      >
+        Verify all $ATL transactions in this Base{" "}
+        <a href="https://base.blockscout.com/">
+          <b>Explorer</b>
+        </a>{" "}
+        explorer by searching the wallet addresses involved in the transaction.
+      </p>
+    </div>
+
+    # Initialize Coinbase Wallet SDK
+    const sdk = new CoinbaseWalletSDK({
+      appName: "ATL5D",
+      appChainIds: [84532],
+    });
+
+    # Make web3 provider
+    const provider = sdk.makeWeb3Provider();
+
+    # Initialize wallet connection
+    const addresses = provider.request("eth_requestAccounts");
+
+    <div class="mx-auto flex w-full max-w-[58rem] flex-col gap-4">
+      <p class="max-w-[85%] leading-normal text-muted-foreground sm:leading-7">
+        <strong>Tag us @ATL5D on TikTok #🅰️🏦 and drop your 🅰️🏦 in the ATL5D Discord #intro channel.</strong>
+      </p>
+    </div>
+  </section>
+</MainLayout>
