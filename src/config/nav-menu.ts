@@ -73,10 +73,11 @@ export const navMenuConfig: NavMenuConfig = {
           image: "/images/examples/animes.jpg",
         },
         {
-          title: "ATLverse Events",
-          href: "https://atl5d.arvrtise.com/blog/atl5d-metaverse-events/",
+          title: "Casino",
+          href: "https://casino.atl5d.com",
           description:
-            "Learn how to create an ATLverse event that benefits everyone in attendance.",
+            "Welcome to ATL5D City Casino on Solana Blockchain.",
+            launched: true,
           image: "/images/examples/blog-db.jpg",
         },
         {

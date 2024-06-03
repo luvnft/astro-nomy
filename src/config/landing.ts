@@ -187,7 +187,7 @@ export const testimonials = [
     job: "▶️",
     image: "https://em-content.zobj.net/source/apple/391/video-game_1f3ae.png",
     review:
-      "ATL5D gamers united in one #gamers channel, play ATL5D games or ATLverse games. Create live gaming events in the ATLverse.",
+      "ATL5D gamers united in one #gamers channel, play ATL5D games or ATLverse games. Casino gamers wanted.",
   },
   {
     name: "#VOICE-CHAT",
