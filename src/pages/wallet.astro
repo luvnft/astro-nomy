@@ -3,6 +3,7 @@ import { buttonVariants } from "@/components/ui/button";
 import MainLayout from "@/layouts/main-layout.astro";
 import { cn } from "@/lib/utils";
 import { Icon } from "astro-icon/components";
+import { Coinbase } from "@coinbase/coinbase-sdk"; // Import Coinbase SDK
 ---
 
 <MainLayout title="Pricing" mainClass="flex-1 bg-background-200">
@@ -33,7 +34,9 @@ import { Icon } from "astro-icon/components";
     </div>
   </section>
 
-  <script>
+  <script type="module">
+    import { CoinbaseWalletSDK } from "@coinbase/wallet-sdk"; // Ensure the correct import
+    
     // Initialize Coinbase Wallet SDK
     const sdk = new CoinbaseWalletSDK({ appName: "An Awesome App", appChainIds: [84532] });
     
@@ -44,5 +47,24 @@ import { Icon } from "astro-icon/components";
     provider.request({ method: "eth_requestAccounts" }).then((addresses) => {
       console.log("Connected addresses:", addresses);
     });
+
+    async function setupCoinbase() {
+      // Paste in your API key name and private key generated from https://portal.cdp.coinbase.com/access/api below:
+      const apiKeyName = "organizations/d1ef1b86-5a0a-4f05-b443-4e105c61edae/apiKeys/ef151261-2b26-4df9-98d7-f9d66d0ed57c";
+      const apiKeyPrivateKey = "-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEIOeY75/UgnSmQTbwGIRowWMhoEWDmyKsEFNGEinSWb34oAoGCCqGSM49\nAwEHoUQDQgAEJBDvWW3Lt4a+ywZ+BeqwlnnQEG+AqTIqdOwOGd+L8CvCYIjTLXt+\n+C7x5SU99gzSfgDCq1O6i9sPXyY1//MstQ==\n-----END";
+    
+      const coinbase = new Coinbase(apiKeyName, apiKeyPrivateKey);
+    
+      // Obtain the default user for the API key.
+      const user = await coinbase.getDefaultUser();
+    
+      // Create your first wallet.
+      const wallet = await user.createWallet();
+    
+      // Fund your wallet using a faucet.
+      await wallet.faucet();
+    }
+
+    setupCoinbase().catch(console.error);
   </script>
 </MainLayout>
