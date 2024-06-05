@@ -16,8 +16,6 @@ ATL5D creates TikTok AR Effects to discover who is the #1 Atlanta TikTok influen
 
 All of our TikTok AR effects can be remixed to cater to brands who subscribe to ATL5D Discord Midtown and Gold Room tier to use as an Atlanta BBL marketing campaign.
 
-![TikTok Aura Effect](../../assets/releases/aura.mp4)
-
 ### 🍿 Showtime
 
 - **TikTok Effect Name:** Aura
