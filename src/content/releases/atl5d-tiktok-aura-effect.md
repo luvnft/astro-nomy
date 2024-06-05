@@ -44,6 +44,6 @@ The #1 ATL5D subscriber #🅰️aura TikTok Reel receives 1M in $ATL Booty money
 - **ATL5D Discord:** Subscriber
 - **Vibes:** Energy is currency, positive vibes always.
 
-![TikTok Aura Effect QR](../../assets/releases/qr-aura.jpg)
+![TikTok Aura Effect QR](../../assets/releases/qr-aura.png)
 
 If you have any suggestions or encounter any issues, don't hesitate to reach out to our support team. Together, we'll continue to make $ATL #1 on the memecoin charts.
