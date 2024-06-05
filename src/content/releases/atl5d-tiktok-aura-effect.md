@@ -1,7 +1,7 @@
 ---
 title: "@ATL5D TikTok Aura Effect"
 date: "2024-05-30"
-versionNumber: "2.0"
+versionNumber: "2.5"
 description: "Use our Aura TikTok effect to create content."
 image:
   src: "../../assets/releases/aura-tiktok-effect.jpg"
@@ -14,12 +14,9 @@ image:
 
 ATL5D creates TikTok AR Effects to discover who is the #1 Atlanta TikTok influencer in the city. We connect local influencer's with brands and small businesses looking to drive traffic to their business with a BBL marketing campaign that rewards influencer's with $ATL Booty money and prizes that can include food, products and services.
 
-All of our TikTok AR effects can be remixed to cater to brands who subscribe to ATL5D Discord Midtown and Gold Room tier to use as an Atlanta BBL marketing campaign 
+All of our TikTok AR effects can be remixed to cater to brands who subscribe to ATL5D Discord Midtown and Gold Room tier to use as an Atlanta BBL marketing campaign.
 
-<video width="320" height="240" controls>
-  <source src="../../assets/releases/aura.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![TikTok Aura Effect](../../assets/releases/aura.mp4)
 
 ### 🍿 Showtime
 
