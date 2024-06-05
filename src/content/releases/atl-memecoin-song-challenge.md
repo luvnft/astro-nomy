@@ -2,15 +2,15 @@
 title: "$ATL Booty Song Challenge"
 date: "2024-05-29"
 versionNumber: "1.8"
-description: "Join Atlanta's newest TikTok Challenge"
+description: "Join Atlanta's newest TikTok Song Challenge"
 image:
   src: "../../assets/releases/starlog-placeholder-18.jpg"
-  alt: "The full Astro logo."
+  alt: "Join Atlanta's newest TikTok Challenge"
 ---
 
 ## $ATL Booty Song Challenge
 
-![Nebulous 2.0 Release](../../assets/releases/starlog-placeholder-18.jpg)
+![$ATL Booty Song Challenge](../../assets/releases/starlog-placeholder-18.jpg)
 
 Trumps Magma memecoin is at a $100M market cap. Atlanta made Base blockchain memecoin called Booty $ATL. $ATL Booty money will launch at 0.000000001 to give everyone a fair shot of becoming an ATLienaire. $ATL is accepted by all ATL5D subscribers. Until then we are looking for an Atlanta artist to create an $ATL Booty song about the memecoin.
 

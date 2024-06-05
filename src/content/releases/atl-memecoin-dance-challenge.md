@@ -2,15 +2,15 @@
 title: "$ATL Booty Memecoin Dance"
 date: "2024-05-30"
 versionNumber: "2.0"
-description: "This is the first post of my new Astro blog."
+description: "Let's see who can create the #1 ATL Booty Memecoin Dance"
 image:
   src: "../../assets/releases/starlog-placeholder-2.jpg"
-  alt: "The full Astro logo."
+  alt: "$ATL Challenge"
 ---
 
 ## $ATL Booty Dance Challenge
 
-![Nebulous 2.0 Release](../../assets/releases/starlog-placeholder-2.jpg)
+![$ATL Booty Memecoin Dance](../../assets/releases/starlog-placeholder-2.jpg)
 
 Greetings, ATL5D tribe users! We're excited to bring you the first Atlanta made Base blockchain memecoin called Booty $ATL. $ATL Booty money will launch at 0.000000001 to give everyone a fair shot of becoming an ATLienaire. $ATL is accepted by all ATL5D subscribers.
 
