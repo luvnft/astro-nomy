@@ -81,9 +81,9 @@ export const navMenuConfig: NavMenuConfig = {
           image: "/images/examples/blog-db.jpg",
         },
         {
-          title: "Arvrtise Hair",
-          href: "https://hair.arvrtise.com",
-          description: "Arvrtise Hair in the Hairverse that stylist own as D-commerce.",
+          title: "BET",
+          href: "https://bet.atl5d.com",
+          description: "Watch the Atlanta BET (Bitcoin Entertainment TV) network subscribers own.",
           image: "/images/examples/ecommerce.jpg",
         },
         {

@@ -7,21 +7,21 @@ export const hobbies: HobbiesProps[] = [
   // first column
   {
     image:
-      "https://i.imgur.com/9tsHn09.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://i.imgur.com/2pZEmJ7.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     alt: "custom tiktok backdrop",
     link: "https://buy.stripe.com/9AQcO7dOn0fa8lWbJ8",
   },
   {
     image:
-      "https://i.imgur.com/h1ngrSF.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "tokenize audio",
-    link: "https://www.facebook.com",
+      "https://i.imgur.com/A5WC8sM.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "try ATL5D backdrop",
+    link: "https://vm.tiktok.com/ZPRKXMPsd/",
   },
   // second column
   {
     image:
-      "https://i.imgur.com/ZbWcuZS.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "tokenize pics",
+      "https://i.imgur.com/zVwRMEh.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "one week ad package",
     link: "https://www.instagram.com",
   },
   {
@@ -32,20 +32,20 @@ export const hobbies: HobbiesProps[] = [
   },
   {
     image:
-      "https://i.imgur.com/tuR0Fmm.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "tokenize a block",
-    link: "https://www.twitter.com",
+      "https://i.imgur.com/CqxjLSN.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "tokenize a hair",
+    link: "https://buy.stripe.com/7sI8xRfWv0fagSs5kP",
   },
   // third column
   {
     image:
-      "https://i.imgur.com/NPl0fsI.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    alt: "tokenize a booking",
+      "https://i.imgur.com/0otrSDf.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    alt: "$RNT onboarding",
     link: "https://www.youtube.com",
   },
   {
     image:
-      "https://i.imgur.com/49epvbb.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://i.imgur.com/6gJ8A0G.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     alt: "tokenize bitcoin",
     link: "https://www.tiktok.com",
   },
