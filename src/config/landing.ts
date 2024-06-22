@@ -25,8 +25,6 @@ export const infos: InfoLdg[] = [
       },
     ],
   },
-];
-
   {
     title: "Seamless Integration",
     description:
