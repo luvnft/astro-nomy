@@ -1,31 +1,32 @@
-import type { InfoLdg } from "@/types";
+import type { InfoLdg } from '@/types';
 
 export const infos: InfoLdg[] = [
   {
-    title: "ATL5D.SHOP",
+    title: 'ATL5D.SHOP',
     description:
-      "Sell merch to Atlanta live with 0% commission fees, with an ATL Discord CRM, ATL Podcast, ATL leaderboard, ATL meme marketing, and a simple public $ATL loyalty rewards system with an ATL Wallet trust account. ",
-    image: "/images/blog/placeholder-about.jpg",
+      'Sell merch to Atlanta live with 0% commission fees, with an ATL Discord CRM, ATL Podcast, ATL leaderboard, ATL meme marketing, and a simple public $ATL loyalty rewards system with an ATL Wallet trust account. [Shop ATL5D](https://atl5d.com)',
+    image: '/images/blog/placeholder-about.jpg',
     list: [
       {
-        title: "$0 Commission Fee",
-        description: "They are not us",
-        icon: "lucide:shopping-bag",
+        title: '$0 Commission Fee',
+        description: 'They are not us',
+        icon: 'lucide:shopping-bag',
       },
       {
-        title: "Meme Marketing",
-        description: "Market your business with branded CapCut memes and branded effects.",
-        icon: "lucide:megaphone",
+        title: 'Meme Marketing',
+        description: 'Market your business with branded CapCut memes and branded effects.',
+        icon: 'lucide:megaphone',
       },
       {
-        title: "3 Word Addy",
+        title: '3 Word Addy',
         description:
-          "Ship to a What3Words.com ///keep.it.simple or find a CabCast driver in the ATL5D Discord to ship it live.",
-        icon: "lucide:map-pin",
-        link: "https://atl5d.shop"
+          'Ship to a What3Words.com ///keep.it.simple or find a CabCast driver in the ATL5D Discord to ship it live.',
+        icon: 'lucide:map-pin',
       },
     ],
   },
+];
+
   {
     title: "Seamless Integration",
     description:
