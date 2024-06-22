@@ -2,26 +2,27 @@ import type { InfoLdg } from "@/types";
 
 export const infos: InfoLdg[] = [
   {
-    title: "///Standing.On.Business",
+    title: "ATL5D.SHOP",
     description:
-      "We partnered with What3Words.com to create a new three word Atlanta address system residents and business own and sell as D-commerce real estate with royalties. ",
+      "Sell merch to Atlanta live with 0% commission fees, with an ATL Discord CRM, ATL Podcast, ATL leaderboard, ATL meme marketing, and a simple public $ATL loyalty rewards system with an ATL Wallet trust account. ",
     image: "/images/blog/placeholder-about.jpg",
     list: [
       {
-        title: "Buy Back The Block",
-        description: "Buy and sell Atlanta 3M x 3M blocks mapped to physical locations as side hustle.",
-        icon: "lucide:laptop",
+        title: "$0 Commission Fee",
+        description: "They are not us",
+        icon: "lucide:shopping-bag",
       },
       {
-        title: "These Three Words",
-        description: "Market your business in three words your customers can remember.",
-        icon: "lucide:settings",
+        title: "Meme Marketing",
+        description: "Market your business with branded CapCut memes and branded effects.",
+        icon: "lucide:megaphone",
       },
       {
-        title: "Tribe Called Quests",
+        title: "3 Word Addy",
         description:
-          "We drop the /// block LNE addy and the first person to pull up and create social media proof of completing the quest wins $ATL money.",
-        icon: "lucide:search",
+          "Ship to a What3Words.com ///keep.it.simple or find a CabCast driver in the ATL5D Discord to ship it live.",
+        icon: "lucide:map-pin",
+        link: "https://atl5d.shop"
       },
     ],
   },
