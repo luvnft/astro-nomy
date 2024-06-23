@@ -67,9 +67,8 @@ export const features = [
   },
   {
     title: "Tokenizing Atlanta food",
-    description:
-      "Learn how to tokenize Food to create affordable Atlanta food options",
-    link: "https://atl5d.arvrtise.com/images/blog/placeholder-3.jpg",
+    description: "Learn how to tokenize Food to create affordable Atlanta food options",
+    link: "https://atl5d.arvrtise.com/blog/tokenizing-atlanta-food/",
   },
   {
     title: "Tokenizing Atlanta",
@@ -81,7 +80,7 @@ export const features = [
     title: "Feature 5",
     description:
       "Subscribe to ATL5D Discord to claim your FREE $ATL B🍑🍑ty memecoin money ",
-      link: "https://discord.com/servers/atl5d-1244450286337003520",
+    link: "https://discord.com/servers/atl5d-1244450286337003520",
   },
   {
     title: "Feature 6",
@@ -105,12 +104,14 @@ export const testimonials = [
     image: "https://em-content.zobj.net/source/apple/391/thought-balloon_1f4ad.png",
     review:
       "The free ATL5D channel for general Atlanta talk.",
+    link: "https://discord.gg/x3jKSusHk5",
   },
   {
-    name: "#INTRODUCE-YA-SELF",
+    name: "#INTRO",
     job: "🆓",
     image: "https://em-content.zobj.net/source/apple/391/microphone_1f3a4.png",
     review: `Grab the mic and let ATL5D know who you are, what you do, what zone you are from, and your ATL5D Coinbase wallet address to receive $ATL tips.`,
+    link: "https://discord.gg/93YCshjGHb",
   },
   {
     name: "#BARTER-SELL",
