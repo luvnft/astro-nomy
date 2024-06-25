@@ -26,18 +26,18 @@ export const footerLinks: SidebarNavItem[] = [
     title: "ATLverse",
     items: [
       { title: "Metaverse", href: "https://www.spatial.io/s/ATLverse-662eb8858ef79a2eef2b8193?share=9164371680450447654" },
-      { title: "Casino", href: "https://atl5d.arvrtise.com/blog" },
-      { title: "Youtube", href: "https://youtube.com/atl5d" },
-      { title: "Challenges", href: "https://atl5d.arvrtise.com/releases" },
+      { title: "ATL5D.shop", href: "https://atl5d.shop" },
+      { title: "Podcast", href: "https://podcast.atl5d.com" },
+      { title: "ATLcast", href: "https://atlcast.atl5d.com/" },
     ],
   },
   {
     title: "ATL5D",
     items: [
       { title: "Blog", href: "https://atl5d.arvrtise.com/blog" },
-      { title: "About", href: "https://youtube.com/atl5d" },
+      { title: "PPV", href: "https://ppv.atl5d.com" },
       { title: "Pricing", href: "https://atl5d.com/pricing" },
-      { title: "Arvrtise Hair", href: "https://hair.arvrtise.com" },
+      { title: "Sora Studio", href: "https://sora.atl5d.com" },
     ],
   },
 ];
