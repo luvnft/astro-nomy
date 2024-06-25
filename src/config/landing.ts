@@ -4,12 +4,12 @@ export const infos: InfoLdg[] = [
   {
     title: 'ATL5D.SHOP',
     description:
-      'Sell merch to Atlanta live with 0% commission fees, with an ATL Discord CRM, ATL Podcast, ATL leaderboard, ATL meme marketing, and a simple public $ATL loyalty rewards system with an ATL Wallet trust account. [Shop ATL5D](https://atl5d.com)',
+      'Sell merch to Atlanta live with 0% commission fees, with an ATL Discord CRM, ATL Podcast, ATL leader board, ATL meme marketing, and a simple public $ATL loyalty rewards system with an ATL Wallet trust account. [Shop ATL5D](https://atl5d.com)',
     image: '/images/blog/placeholder-about.jpg',
     list: [
       {
         title: '$0 Commission Fee',
-        description: 'They are not us',
+        description: 'They (5% fees) are not like us ($0 fees)',
         icon: 'lucide:shopping-bag',
       },
       {
