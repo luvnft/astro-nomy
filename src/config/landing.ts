@@ -3,7 +3,7 @@ import type { InfoLdg } from '@/types';
 export const infos: InfoLdg[] = [
   {
     title: 'ATL5D.SHOP',
-    description: `Sell merch to Atlanta live with 0% commission fees, with an ATL Discord CRM, ATL Podcast, ATL leader board, ATL meme marketing, and a simple public $ATL loyalty rewards system with an ATL Wallet trust account. <a href="https://atl5d.com">Shop ATL5D</a>`,
+    description: `Sell merch to Atlanta live with 0% commission fees, with an ATL Discord CRM, ATL Podcast, ATL leader board, ATL meme marketing, and a simple public $ATL loyalty rewards system with an ATL Wallet trust account.`,
     image: '/images/blog/placeholder-about.jpg',
     list: [
       {
