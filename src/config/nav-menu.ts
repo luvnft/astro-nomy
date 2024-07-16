@@ -6,22 +6,21 @@ export const navMenuConfig: NavMenuConfig = {
       title: "Pages",
       items: [
         {
-          title: "Home",
-          href: "/landing",
-          description: "The ATL5D home page.",
+          title: "PPV ATL5D Discord",
+          href: "https://discord.com/servers/atl5d-1244450286337003520",
+          description: "PPV ATL5D Discord",
           image: "/images/examples/landing.jpg",
+        },
+        {
+          title: "FREE ATL5D Discord",
+          href: "https://discord.gg/QQeFcekQyx",
+          description: "Join the FREE ATL5D Discord.",
+          image: "/images/examples/challenge.jpg",
         },
         {
           title: "Challenge",
           href: "/releases",
-          description: "Check daily challenges and quests",
-          image: "/images/examples/challenge.jpg",
-        },
-        {
-          title: "TikTok",
-          href: "https://tiktok.com/@atl5d",
-          description:
-            "Follow us and use our ATL themed effects.",
+          description: "Check the latest challenges",
           image: "/images/examples/waitlist.jpg",
           forceReload: true,
         },
@@ -38,7 +37,7 @@ export const navMenuConfig: NavMenuConfig = {
           image: "/images/examples/about.jpg",
         },
         {
-          title: "Blog",
+          title: "Solutions",
           href: "/blog",
           description:
             "Read the ATL5D blog to stay tapped in.",
@@ -52,31 +51,29 @@ export const navMenuConfig: NavMenuConfig = {
       title: "ATLverse",
       items: [
         {
-          title: "PPV ATL5D Discord",
+          title: "ATL5D.shop",
           href: "https://discord.com/servers/atl5d-1244450286337003520",
           description: "You have to pay to see the Reel ATLanta.",
           image: "/images/examples/static-blog.jpg",
         },
         {
-          title: "TON TV",
-          href: "https://tontv.atl5d.com",
-          description:
-            "Create short NFTV show episodes on Telegram",
+          title: "LIVE.ATL5D.shop",
+          href: "https://live.atl5d.shop",
+          description: "ATL5D.shop live",
           image: "/images/examples/documentation.jpg",
           launched: true,
         },
         {
-          title: "FREE ATL5D Discord",
-          href: "https://discord.gg/QQeFcekQyx",
+          title: "Park",
+          href: "https://park.atl5d.com",
           description:
-            "The free tier is the parking lot of ATL5D Discord.",
+            "The audio clubhouse in the park.",
           image: "/images/examples/animes.jpg",
         },
         {
-          title: "Casino",
-          href: "https://casino.atl5d.com",
-          description:
-            "Welcome to ATL5D City Casino on Solana Blockchain.",
+          title: "Podcast",
+          href: "https://podcast.atl5d.com",
+          description: "Join the ATL5D podcast platform.",
             launched: true,
           image: "/images/examples/blog-db.jpg",
         },
