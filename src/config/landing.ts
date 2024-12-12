@@ -2,24 +2,24 @@ import type { InfoLdg } from '@/types';
 
 export const infos: InfoLdg[] = [
   {
-    title: 'ATL5D.SHOP',
-    description: `Sell merch to Atlanta live with 0% commission fees, with an ATL Discord CRM, ATL Podcast, ATL leader board, ATL meme marketing, and a simple public $ATL loyalty rewards system with an ATL Wallet trust account.`,
+    title: 'ADTC',
+    description: `A-commerce is the new E-commerce—without the hassle of websites, shipping, or reviews. ADTC (ATL5D Digital Trading Content) is brought to you by the Wizard of Hahz, a former Atlanta celebrity photographer. He donated 30k of his 1-of-1 collection to help Atlanta residents invest in themselves and own a piece of the city's history, dating back to the era of 2010-2015, on the Polkadot blockchain. Buy, sell, and trade ADTC to earn Kusama ($KSM). When ADTC trends on social media, all HODLers win in this exciting social game. Follow @ATL5D and DM us your ATL NIGHT SPOTS to start earning.`,
     image: '/images/blog/placeholder-about.jpg',
     list: [
       {
-        title: '$0 Commission Fee',
-        description: 'They (5% fees) are not like us ($0 fees)',
+        title: 'TRAP',
+        description: 'Buy ADTC for the low, and resell it for the high earning 100% on the play.',
         icon: 'lucide:shopping-bag',
       },
       {
-        title: 'Book an ATLfluencer',
-        description: 'Book an ATLfluencer for one (remote) or two hours (on-site) to host a live flash sale',
+        title: 'ADTC',
+        description: 'Create content about the ADTC you own and tag @ATL5D for a FREE story re-post.',
         icon: 'lucide:megaphone',
       },
       {
-        title: 'Pull up',
-        description: 'Be the first to pull up to live flash sale near you on the What3Words.com ///keep.it.simple map',
-        icon: 'lucide:map-pin',
+        title: 'REMOTE',
+        description: 'Trap ADTC daily as a blockchain side hustle and network with holders around the world in our Discord to strategize how to make ADTC go viral.',
+        icon: 'lucide:laptop',
       },
     ],
   },

@@ -10,7 +10,7 @@ import simpleStackForm from "simple-stack-form";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://atl5d.arvrtise.com",
+  site: "https://atl5d.com",
   integrations: [
     mdx({
       syntaxHighlight: "shiki",
