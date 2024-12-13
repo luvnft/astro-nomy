@@ -1,25 +1,26 @@
 ---
 interface Props {
-  label?: string;
-  title: string;
-  subtitle?: string;
+  label?: string; // Optional label displayed above the title
+  title: string;  // Required title text
+  subtitle?: string; // Optional subtitle displayed below the title
 }
 
+// Destructure the props passed to the component
 const { label, title, subtitle } = Astro.props;
 ---
 
-<div class="flex flex-col items-center text-center">
-  {
-    label ? (
-      <div class="text-gradient_indigo-purple mb-4 font-semibold">{label}</div>
-    ) : null
-  }
+<div class="flex flex-col items-center text-center space-y-4">
+  {label && (
+    <div class="text-gradient_indigo-purple mb-2 font-semibold">
+      {label}
+    </div>
+  )}
   <h2 class="font-heading text-3xl md:text-4xl lg:text-[40px]">
     {title}
   </h2>
-  {
-    subtitle ? (
-      <p class="mt-6 text-balance text-lg text-muted-foreground">{subtitle}</p>
-    ) : null
-  }
+  {subtitle && (
+    <p class="text-lg text-muted-foreground leading-relaxed">
+      {subtitle}
+    </p>
+  )}
 </div>
