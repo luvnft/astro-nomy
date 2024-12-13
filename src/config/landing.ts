@@ -50,32 +50,32 @@ export const infos: InfoLdg[] = [
 export const features = [
   {
     title: "The Atlanta Housing Crisis Solution",
-    description: "Level 1️⃣ Download Tonkeeper (Available on iOS and Android) ➡️ write down your seed phrase offline ➡️ Buy TON ➡️ Buy ATL  ",
+    description: "Level 1️⃣ Download Tonkeeper (Available on iOS and Android) ➡️ write down your seed phrase offline ➡️ Buy TON ➡️ Buy ATL",
     link: "https://tonkeeper.com/",
   },
   {
     title: "Feature 2",
-    description: "Learn how Bitcoin $RNT creates affordable Atlanta housing and solves rental scams",
-    link: "https://atl5d.arvrtise.com/blog/how-bitcoin-rnt-solves-atlanta-housing-crisis/",
+    description: "Level 2️⃣ is purchasing a ADTC or accepting $ATL for business. Tag proof of your ADTC purchase on TikTok tagging @ADTC to receive 100K in $ATC and a story re-post.",
+    link: "https://adtc.atl5d.com",
   },
   {
     title: "Tokenizing Atlanta food",
-    description: "Learn how to tokenize Food to create affordable Atlanta food options",
-    link: "https://atl5d.arvrtise.com/blog/tokenizing-atlanta-food/",
+    description: "Level 2️⃣ is purchasing 2x ADTCs or accepting $ATL for a business 2x. Tag proof of your ADTCs purchase on TikTok tagging @ADTC to receive 200K in $ATC and a story re-post.",
+    link: "https://adtc.atl5d.com",
   },
   {
     title: "Tokenizing Atlanta",
-    description: "Tokenizing Atlanta Real-World Assets: Building a Local Blockchain Economy through D-commerce",
-    link: "https://atl5d.arvrtise.com/blog/tokenizing-atlanta-rwa/",
+    description: "Promote your 5D biz in the ATL5D Telegram channel.",
+    link: "https://t.me/atl5d",
   },
   {
     title: "Feature 5",
-    description: "Subscribe to ATL5D Discord to claim your FREE $ATL B🍑🍑ty memecoin money",
-    link: "https://discord.com/servers/atl5d-1244450286337003520",
+    description: "Follow @ATL5D on TikTok ",
+    link: "https://tiktok.com/atl5d",
   },
   {
     title: "Feature 6",
-    description: "Join our FREE ATL5D Discord until you subscribe to unlock local PPV channels",
+    description: "Join our FREE ATL5D Discord to promote your 5D biz.",
     link: "https://discord.gg/QQeFcekQyx",
   },
 ];
