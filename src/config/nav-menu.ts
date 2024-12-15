@@ -68,6 +68,7 @@ export const navMenuConfig: NavMenuConfig = {
           href: "https://adtc.atl5d.com",
           description:
             "ATL5D Digital trading content",
+            launched: true,
           image: "/images/examples/animes.jpg",
         },
         {
