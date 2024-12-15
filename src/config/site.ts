@@ -34,9 +34,11 @@ export const footerLinks: SidebarNavItem[] = [
   {
     title: "ATL5D",
     items: [
+      { title: "Buy ATL", href: "https://t.me/blum/app?startapp=memepadjetton_ATL_llnJs-ref_9K5kvzkHYM" },
+      { title: "Buy ADTC", href: "https://adtc.atl5d.com" },
       { title: "Blog", href: "https://atl5d.arvrtise.com/blog" },
-      { title: "PPV", href: "https://ppv.atl5d.com" },
-      { title: "Tokenize your biz", href: "https://atl5d.com/pricing" },
+      { title: "PPV CASH", href: "https://ppv.cash" },
+      { title: "Avertise", href: "https://atl5d.com/pricing" },
     ],
   },
 ];
