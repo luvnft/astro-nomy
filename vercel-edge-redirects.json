@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "routes": [
+    {
+      "src": "atl5d.arvrtise.com(.*)",
+      "dest": "https://atl5d.com$1",
+      "status": 308
+    }
+  ]
+}
