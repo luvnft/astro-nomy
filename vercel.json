@@ -1,0 +1,17 @@
+{
+  "redirects": [
+    {
+      "source": "atl5d.arvrtise.com",
+      "destination": "https://atl5d.com",
+      "permanent": true,
+      "headers": {
+        "X-Forwarded-Host": "atl5d.com"
+      }
+    },
+    {
+      "source": "atl5d.arvrtise.com/:path*",
+      "destination": "https://atl5d.com/:path*",
+      "permanent": true
+    }
+  ]
+}
