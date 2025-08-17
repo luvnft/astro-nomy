@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/",
-      "destination": "https://atl5d.com",
+      "source": "/:path*",
+      "destination": "https://atl5d.com/:path*",
       "permanent": true,
       "has": [
         {
